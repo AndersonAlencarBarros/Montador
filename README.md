@@ -6,6 +6,11 @@ de uma CPU RISC simples. Um montador é uma ferramenta que converte código em l
 arquivo binário que representa o mapa de memória que será utilizado em um simuladori
 da CPU.
 
+<p align="center">
+    <img src="./assets/assembler.png">
+</p>
+
+
 ## O programa `Montador.py` recebe um arquivo em assembly na linha de comando, dessa forma, para executar
 
 ```bash
